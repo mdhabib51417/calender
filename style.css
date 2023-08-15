@@ -1,0 +1,25 @@
+
+header{
+    background-image: url('./images/banner/banner1.png');
+    background-size:cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+}
+.banner{
+    text-align: right;
+    margin-right: 80px;
+    
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 0;
+}
+.about img{
+    height: 400px;
+    width: 400px;
+}
