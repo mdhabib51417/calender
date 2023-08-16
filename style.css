@@ -23,3 +23,14 @@ header{
     height: 400px;
     width: 400px;
 }
+#plan{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+
